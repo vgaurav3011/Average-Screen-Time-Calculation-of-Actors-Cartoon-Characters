@@ -8,5 +8,5 @@ It identifies the characters in the videos and predicts the screen space of the 
 <br/>
 Output Screenshot:
 <br/>
-![alt tag](https://github.com/vgaurav3011/Regression-Algorithms/blob/master/Ridge_Regression.png)
+![alt tag](https://github.com/vgaurav3011/Average-Screen-Time-Calculation-of-Actors-Cartoon-Characters/blob/master/Output.png)
 
