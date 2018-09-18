@@ -7,5 +7,6 @@ Based on Sequential Model of keras, the program creates frames of the video play
 It identifies the characters in the videos and predicts the screen space of the same in another video featuring the same characters.
 <br/>
 Output Screenshot:
+<br/>
 ![alt tag](https://github.com/vgaurav3011/Average-Screen-Time-Calculation-of-Actors-Cartoon-Characters/blob/master/Output.png)
 
